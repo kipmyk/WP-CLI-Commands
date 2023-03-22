@@ -1,6 +1,6 @@
 # WP CLI Commands
 
-This is a list of the WP CLI commands. As I test it out, I am updateing the lists here.
+This is a list of the WP CLI commands. As I test it out, I am updating the lists here.
 
 # WP Core <command>
 
