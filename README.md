@@ -48,10 +48,18 @@ wp theme update --all
 
 wp theme install twentytwentyone
 
-## Search theme from WordPress.org theme directory.
+# wp theme search
 
 The [`wp theme search`](https://developer.wordpress.org/cli/commands/theme/search/) searches the WordPress.org theme directory.
 
 ### Example
 
 `wp theme search photo --per-page=6`
+
+# wp theme get
+
+The [`wp theme get`](https://developer.wordpress.org/cli/commands/theme/get/) Gets details about a theme.
+
+### Example
+
+`wp theme get twentytwentythree --fields=name,title,version`
