@@ -47,3 +47,11 @@ wp theme update --all
 ## Install the new default theme
 
 wp theme install twentytwentyone
+
+## Search theme from WordPress.org theme directory.
+
+The [`wp theme search`](https://developer.wordpress.org/cli/commands/theme/search/) searches the WordPress.org theme directory.
+
+### Example
+
+`wp theme search photo --per-page=6`
